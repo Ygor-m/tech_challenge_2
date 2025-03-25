@@ -43,17 +43,7 @@ pandas
 matplotlib
 seaborn
 tqdm
-Instalação
-bash
-Copy Code
-git clone https://github.com/seu-usuario/alocacao-recursos-genetico.git
-cd alocacao-recursos-genetico
-pip install -r requirements.txt
-Execução
-bash
-Copy Code
-jupyter notebook Algoritmo_Genetico_Alocacao_Recursos.ipynb
-Resultados
+
 O algoritmo genético implementado consegue eficientemente:
 
 Completar projetos prioritários (100% dos projetos de prioridade 8-10)
